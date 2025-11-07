@@ -1,26 +1,30 @@
 .card_flipped > .backSide {
   transform: rotateY(90deg);
+  /* animation: 2s ease-in-out card-flip; */
+  transition: transform 1s;
+}
+
+.card_flipped > .frontSide {
+  transform: rotateY(0deg);
+  transition: transform 1s 1s;
+}
+
+.card > .frontSide {
+  transform: rotateY(90deg);
 }
 
 .card_flipped > img,
 .card > img {
   object-fit: contain;
-}
-
-.card-grid > button {
-  position: relative;
-  height: 200px;
-  width: 200px;
-  margin: 1vw;
-}
-
-.card-grid > button > img {
   position: absolute;
-  top: 0;
-  left: 0;
+  perspective: 1000px;
 }
 
-.card-grid {
-  display: flex;
-  gap: 10vw;
+@keyframes card-flip {
+  0% {
+  }
+
+  100% {
+    transform: rotateY(90deg);
+  }
 }

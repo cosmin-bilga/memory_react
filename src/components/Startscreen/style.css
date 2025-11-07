@@ -1,0 +1,32 @@
+.startscreen {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.startscreen > input[type="text"] {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.gameDifficulty {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.startscreen > button {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.startscreen > label {
+  font-size: 1.25rem;
+  background: radial-gradient(
+    rgba(255, 255, 255, 0.992),
+    rgba(255, 255, 255, 0.185)
+  );
+  text-align: center;
+  border-radius: 30px;
+}

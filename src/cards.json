@@ -7,5 +7,19 @@
 {"id" : 7, "pairId" : 4,  "isMatched" : false, "isFlipped" : false, "name" : "4", "icon" : "./Images/4.jpg"},
 {"id" : 8, "pairId" : 4,  "isMatched" : false, "isFlipped" : false, "name" : "4", "icon" : "./Images/4.jpg"},
 {"id" : 9, "pairId" : 5,  "isMatched" : false, "isFlipped" : false, "name" : "5", "icon" : "./Images/5.jpg"},
-{"id" : 10, "pairId" : 5,  "isMatched" : false, "isFlipped" : false, "name" : "5", "icon" : "./Images/5.jpg"}
+{"id" : 10, "pairId" : 5,  "isMatched" : false, "isFlipped" : false, "name" : "5", "icon" : "./Images/5.jpg"},
+{"id" : 11, "pairId" : 6,  "isMatched" : false, "isFlipped" : false, "name" : "6", "icon" : "./Images/6.jpg"},
+{"id" : 12, "pairId" : 6,  "isMatched" : false, "isFlipped" : false, "name" : "6", "icon" : "./Images/6.jpg"},
+{"id" : 13, "pairId" : 7,  "isMatched" : false, "isFlipped" : false, "name" : "7", "icon" : "./Images/7.jpg"},
+{"id" : 14, "pairId" : 7,  "isMatched" : false, "isFlipped" : false, "name" : "7", "icon" : "./Images/7.jpg"},
+{"id" : 15, "pairId" : 8,  "isMatched" : false, "isFlipped" : false, "name" : "8", "icon" : "./Images/8.jpg"},
+{"id" : 16, "pairId" : 8,  "isMatched" : false, "isFlipped" : false, "name" : "8", "icon" : "./Images/8.jpg"},
+{"id" : 17, "pairId" : 9,  "isMatched" : false, "isFlipped" : false, "name" : "9", "icon" : "./Images/9.jpg"},
+{"id" : 18, "pairId" : 9,  "isMatched" : false, "isFlipped" : false, "name" : "9", "icon" : "./Images/9.jpg"},
+{"id" : 19, "pairId" : 10,  "isMatched" : false, "isFlipped" : false, "name" : "10", "icon" : "./Images/10.jpg"},
+{"id" : 20, "pairId" : 10,  "isMatched" : false, "isFlipped" : false, "name" : "10", "icon" : "./Images/10.jpg"},
+{"id" : 21, "pairId" : 11,  "isMatched" : false, "isFlipped" : false, "name" : "11", "icon" : "./Images/11.jpg"},
+{"id" : 22, "pairId" : 11,  "isMatched" : false, "isFlipped" : false, "name" : "11", "icon" : "./Images/11.jpg"},
+{"id" : 23, "pairId" : 12,  "isMatched" : false, "isFlipped" : false, "name" : "12", "icon" : "./Images/12.jpg"},
+{"id" : 24, "pairId" : 12,  "isMatched" : false, "isFlipped" : false, "name" : "12", "icon" : "./Images/12.jpg"}
 ]
