@@ -2,8 +2,8 @@
 
 .card-grid > button {
   position: relative;
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
   margin: 1vw;
   border: none;
   border-top-left-radius: 20px;
@@ -30,10 +30,17 @@
 .background {
   background-image: url("../public/Images/background.png");
   background-size: cover;
-  height: 100vh;
+  background-attachment: fixed;
+  /* height: 100vh; */
+  min-height: 90vh;
   width: 80vw;
   margin: auto;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-bottom: 5vh;
+  padding-top: 5vh;
+}
+
+@media (width < 800px) {
 }

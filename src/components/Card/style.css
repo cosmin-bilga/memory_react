@@ -15,7 +15,8 @@
 
 .card_flipped > img,
 .card > img {
-  object-fit: contain;
+  width: 100px;
+  height: 100px;
   position: absolute;
   perspective: 1000px;
 }
